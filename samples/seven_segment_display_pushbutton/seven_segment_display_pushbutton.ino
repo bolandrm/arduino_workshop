@@ -1,6 +1,7 @@
 /*
 This example demonstrates a very simple use of the SevSeg library with a 4
 digit display. It displays a counter that counts up, showing deci-seconds.
+https://github.com/DeanIsMe/SevSeg
 */
 
 #include "SevSeg.h"

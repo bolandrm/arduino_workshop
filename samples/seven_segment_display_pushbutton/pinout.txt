@@ -1,0 +1,28 @@
+Looking at front of display.
+
+4 Digit:
+
+TOP
+
+1  A  F  2  3  B
+
+E  D  DP C  G  4
+
+BOTTOM
+
+
+
+2 Digit:
+
+TOP
+
+A  B  2  1  F
+
+C  DP E  D  G
+
+BOTTOM
+
+
+
+
+Common Anode.
