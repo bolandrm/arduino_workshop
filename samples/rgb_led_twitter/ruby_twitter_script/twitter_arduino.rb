@@ -9,7 +9,7 @@ Sentimental.threshold = 0.25
 analyzer = Sentimental.new
 
 #params for serial port
-port_str = "/dev/tty.wchusbserial14130"  #may be different for you
+port_str = "/dev/tty.wchusbserial1410"  #may be different for you
 baud_rate = 9600
 
 sp = SerialPort.new(port_str, baud_rate)
@@ -29,7 +29,7 @@ end
 #end
 
 puts "hi"
-puts "try: @justinxreese, @realDonaldTrump, @andy, @garybernhardt"
+puts "try: @justinxreese, @realDonaldTrump, @garybernhardt, @MileyCyrus"
 
 loop do
   begin
