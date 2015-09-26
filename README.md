@@ -12,3 +12,12 @@ the contents and access them that way.
 1.  If you're using Windows, you should be done.  If you're using OSX or Linux, read on.
 1.  You'll probably need to install a driver, since the Arduinos we're using have a CH340 USB-to-serial chip.  Visit the [drivers](https://github.com/bolandrm/arduino_workshop/tree/master/drivers) folder in this repository and extract and install the appropriate driver for your OS.  NOTE:  I have not tested this on Linux.
 
+## Samples
+
+In the samples folder you will find examples of how to use a variety of sensors and other components.
+These are meant to be quite simple and illustrate how the component is used.
+
+## Projects
+
+These are combinations of various sensors/components that I did not create, but use a lot of the
+components that we have access to during the workshop.
